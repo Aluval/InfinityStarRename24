@@ -1,7 +1,7 @@
 <img src="https://graph.org/file/a882f2bdf9252f6af6bca.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://telegram.me/SUNRISES_24" target="/blank"> Infinity star ( Renamer ) </a></>
+ <b><a href="https://telegram.me/InfinityStarRename24Bot" target="/blank"> INFINITY STAR RENAME 24 BOT ♾️🌟 </a></>
 </h1>
 
 <p align="center">🤍 Thanks for Being Here 🤍</p>
