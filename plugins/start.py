@@ -30,7 +30,7 @@ LAZY_PIC = os.environ.get("LAZY_PIC", "")
 currentTime = datetime.datetime.now()
 
 if currentTime.hour < 12:
-    wish = "❤️ Hello Mawa❤️"
+    wish = "❤️ Good Morning Mawa❤️"
 elif 12 <= currentTime.hour < 12:
     wish = '🤍 Good Afternoon Mawa 🤍'
 else:
