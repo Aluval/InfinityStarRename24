@@ -52,8 +52,8 @@ async def start(client, message):
                                 reply_markup=InlineKeyboardMarkup(
                                       [[InlineKeyboardButton("🎬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🎬", url="https://t.me/sunriseseditsoffical6")],
                                       [InlineKeyboardButton("🌟 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🌟", url="https://t.me/Sunrises_Bot_discussion_Group")],
-                                      [InlineKeyboardButton("🧑🏻‍💻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 👑", url='https://t.me/LazyPrincessSupport'),
-                                      InlineKeyboardButton("💖 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 💖", url='https://t.me/real_MoviesAdda2')]
+                                      [InlineKeyboardButton("🧑🏻‍💻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 👑", url='https://t.me/SUNRISES_24'),
+                                      InlineKeyboardButton("💖 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 💖", url='https://t.me/SH24_AdminBot')]
                                      ]))
                                       
         return
@@ -66,8 +66,8 @@ async def start(client, message):
                                          reply_markup=InlineKeyboardMarkup(
                                              [[InlineKeyboardButton("🎬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🎬", url="https://t.me/sunriseseditsoffical6")],
                                               [InlineKeyboardButton("🌟 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🌟", url="https://t.me/Sunrises_Bot_discussion_Group")],
-                                              [InlineKeyboardButton("🧑🏻‍💻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 👑", url='https://t.me/LazyPrincessSupport'),
-                                             InlineKeyboardButton("💖 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 💖", url='https://t.me/real_MoviesAdda2')]
+                                              [InlineKeyboardButton("🧑🏻‍💻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 👑", url='https://t.me/SUNRISES_24'),
+                                             InlineKeyboardButton("💖 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 💖", url='https://t.me/SH24_AdminBot')]
                                              ]))
                                           
             except:
@@ -86,8 +86,8 @@ async def start(client, message):
                                      reply_markup=InlineKeyboardMarkup(
                                          [[InlineKeyboardButton("🎬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🎬", url="https://t.me/sunriseseditsoffical6")],
                                           [InlineKeyboardButton("🌟 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🌟", url="https://t.me/Sunrises_Bot_discussion_Group")],
-                                          [InlineKeyboardButton("🧑🏻‍💻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 👑", url='https://t.me/LazyPrincessSupport'),
-                                          InlineKeyboardButton("💖 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 💖", url='https://t.me/real_MoviesAdda2')]
+                                          [InlineKeyboardButton("🧑🏻‍💻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 👑", url='https://t.me/SUNRISES_24'),
+                                          InlineKeyboardButton("💖 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 💖", url='https://t.me/SH24_AdminBot')]
                                          ]))
                                           
     
@@ -128,8 +128,8 @@ async def send_doc(client, message):
                                   reply_markup=InlineKeyboardMarkup([
                                                                      [InlineKeyboardButton("🎬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🎬", url='https://t.me/sunriseseditsoffical6')],
                                                                      [InlineKeyboardButton("🌟 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🌟", url='https://t.me/Sunrises_Bot_discussion_Group')],
-                                                                     [InlineKeyboardButton("🧑🏻‍💻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 👑", url='https://t.me/LazyDeveloper'),
-                                                                     InlineKeyboardButton("💖 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 💖", url='https://t.me/LazyPrincessSupport')]
+                                                                     [InlineKeyboardButton("🧑🏻‍💻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 👑", url='https://t.me/SUNRISES_24'),
+                                                                     InlineKeyboardButton("💖 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 💖", url='https://t.me/SH24_AdminBot')]
                                                                      ]))
                                                                     
         await message.reply_text(text=f"⚡")
