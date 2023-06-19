@@ -22,7 +22,7 @@ async def warn(c, m):
 
 @Client.on_message(filters.private & filters.user(ADMIN) & filters.command(["addpremium"]))
 async def buypremium(bot, message):
-	await message.reply_text("🦋 Select Plan to upgrade...", quote=True, reply_markup=InlineKeyboardMarkup([
+	await message.reply_text("⚡ Select Plan to upgrade...", quote=True, reply_markup=InlineKeyboardMarkup([
 		           [
 				   InlineKeyboardButton("🪙 Silver", callback_data="vip1")
 				   ], [
